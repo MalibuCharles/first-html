@@ -1,0 +1,24 @@
+.header-text {
+    color: red;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+/* .list-container {
+    background-color: aqua;
+    border-radius: 10px;
+    border-color: orange;
+    width: 100%;
+    height: 300px; 
+} */
+
+.ordered-list {
+    float: right;
+    color: deeppink;
+}
+
+.unordered-list {
+    float: left;
+    color: greenyellow;
+}
+
